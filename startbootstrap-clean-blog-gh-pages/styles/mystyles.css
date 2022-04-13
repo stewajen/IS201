@@ -1,0 +1,38 @@
+a {
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: none;
+}
+body {
+    background-color:#ea8080;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+a:hover {
+    text-decoration: color rgb(252, 159, 175);
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    text-decoration: rgb(30, 43, 67);
+    font-size: 25px;
+    font-style: italic;
+}
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #030202;
+    text-align: center;
+    padding-top: 5px;
+}
